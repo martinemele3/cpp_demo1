@@ -1,0 +1,23 @@
+# CMake build artifacts
+build/
+out/
+CMakeFiles/
+
+# Visual Studio
+.vs/
+
+# Python environments
+.venv/
+
+# Generated binaries
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# VS Code: ignore local settings, keep shared configuration
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
