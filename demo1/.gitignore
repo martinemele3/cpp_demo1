@@ -1,8 +1,0 @@
-/build/
-/out/
-/.vs/
-/.vscode/
-/.venv/
-*.exe
-*.obj
-*.o
